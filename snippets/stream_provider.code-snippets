@@ -1,0 +1,18 @@
+{
+  "State Provider": {
+    "prefix": "stateProvider",
+    "body": [
+      "final $1Provider = StreamProvider<$2>((ref) async* {",
+      "\t$3",
+      "});"
+    ]
+  },
+  "State Provider Family": {
+    "prefix": "stateProviderFamily",
+    "body": [
+      "final $1Provider = StreamProvider.family<$2, $3>((ref, $4) async* {",
+      "\t$5",
+      "});"
+    ]
+  }
+}

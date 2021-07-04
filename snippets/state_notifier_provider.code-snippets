@@ -1,0 +1,18 @@
+{
+  "State Notifier Provider": {
+    "body": "stateNotifierProvider",
+    "prefix": [
+      "final $1Provider = StateNotifierProvider<$2>((ref) {",
+      "$3",
+      "});"
+    ]
+  },
+  "State Notifier Provider with Family": {
+    "body": "stateNotifierProviderFamily",
+    "prefix": [
+      "final $1Provider = StateNotifierProvider.family<$2, $3>((ref, $4) {",
+      "\t$5",
+      "});"
+    ]
+  }
+}

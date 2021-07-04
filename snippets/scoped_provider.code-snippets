@@ -1,0 +1,6 @@
+{
+  "Scoped Provider": {
+    "prefix": "scopedProvider",
+    "body": ["final $1 = ScopedProvider<$2>((ref){", "\treturn $3;", "});"]
+  }
+}

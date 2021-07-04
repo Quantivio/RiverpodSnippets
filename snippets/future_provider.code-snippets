@@ -1,0 +1,18 @@
+{
+  "Future Provider": {
+    "prefix": "futureProvider",
+    "body": [
+      "final $1Provider = FutureProvider<$2>((ref) async {",
+      "\treturn $3;",
+      "});"
+    ]
+  },
+  "Future Provider with Family": {
+    "prefix": "futureProviderFamily",
+    "body": [
+      "final $1Provider = FutureProvider.family<$2, $3>((ref, $4) async {",
+      "\treturn $5;",
+      "});"
+    ]
+  }
+}

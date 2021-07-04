@@ -1,0 +1,18 @@
+{
+  "Change Notifier Provider": {
+    "prefix": "changeNotifierProvider",
+    "body": [
+      "final $1Provider = ChangeNotifierProvider<$2>((ref) {",
+      "\t$3",
+      "});"
+    ]
+  },
+  "Change Notifier Provider with Family": {
+    "prefix": "changeNotifierProviderFamily",
+    "body": [
+      "final $1Provider = ChangeNotifierProvider.family<$2, $3>((ref, $4) {",
+      "\t$5",
+      "});"
+    ]
+  }
+}

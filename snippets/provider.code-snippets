@@ -1,0 +1,14 @@
+{
+  "Provider": {
+    "prefix": "provider",
+    "body": ["final $1Provider = Provider<$2>((ref) {", "\treturn $3;", "});"]
+  },
+  "Provider with Family": {
+    "prefix": "providerFamily",
+    "body": [
+      "final $1Provider = Provider.family<$2, $3>((ref, $4) {",
+      "\treturn $code$;",
+      "});"
+    ]
+  }
+}

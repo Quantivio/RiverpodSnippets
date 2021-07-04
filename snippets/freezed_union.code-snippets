@@ -1,0 +1,9 @@
+{
+    "Freezed Union": {
+        "prefix": "fUnion",
+        "description": "Simple freezed unions",
+        "body": [
+            "const factory $1.$2 = ${2/(.*)/${1:/capitalize}/};"
+        ]
+    }
+}

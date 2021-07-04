@@ -1,0 +1,12 @@
+{
+  "Consumer Widget": {
+    "prefix": "consumer",
+    "body": [
+      "Consumer(",
+      "\tbuilder: (ctx, watch,child) {",
+      "\t\treturn $1;",
+      "\t},",
+      ")"
+    ]
+  }
+}
