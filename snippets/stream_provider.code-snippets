@@ -1,6 +1,6 @@
 {
   "State Provider": {
-    "prefix": "stateProvider",
+    "prefix": "streamProvider",
     "body": [
       "final $1Provider = StreamProvider<$2>((ref) async* {",
       "\t$3",
@@ -8,7 +8,7 @@
     ]
   },
   "State Provider Family": {
-    "prefix": "stateProviderFamily",
+    "prefix": "streamProviderFamily",
     "body": [
       "final $1Provider = StreamProvider.family<$2, $3>((ref, $4) async* {",
       "\t$5",
