@@ -3,7 +3,7 @@
   "displayName": "Riverpod Snippets",
   "description": "Easy Riverpod and Freezed snippets for VS Code",
   "publisher": "Pythonhub",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "icon": "logo.jpg",
   "engines": {

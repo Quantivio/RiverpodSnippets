@@ -1,5 +1,6 @@
 {
     "Freezed Union": {
+    "scope": "dart",
         "prefix": "fUnion",
         "description": "Simple freezed unions",
         "body": [

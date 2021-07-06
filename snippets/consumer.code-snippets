@@ -1,5 +1,6 @@
 {
-  "Consumer Widget": {
+  "create provider": {
+    "scope": "dart",
     "prefix": "consumer",
     "body": [
       "Consumer(",
@@ -7,6 +8,7 @@
       "\t\treturn $1;",
       "\t},",
       ")"
-    ]
+    ],
+    "description": "Creates a consumer"
   }
 }
