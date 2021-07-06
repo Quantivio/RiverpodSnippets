@@ -1,3 +1,14 @@
+# Merged with [flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+
+[![status: archive](https://github.com/GIScience/badges/raw/master/status/archive.svg)](https://github.com/GIScience/badges#archive) &nbsp;
+![status: discontinued](https://img.shields.io/badge/status-discontinued-red)
+
+# **!Important**
+
+This repository has been merged with [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets) this repository will be archived for reference.
+
+Please install flutter-riverpod-snippets extension available on VS Code.
+
 # Riverpod and Freezed Snippets
 
 With the help of Riverpod and Freezed snippets users can easily work with Riverpod and be more productive. This extension contains different riverpod and freezed snippets.
@@ -40,6 +51,10 @@ Vscode: `1.56.0`
 
 ## Release Notes
 
+### 0.0.2
+
+- Fixed bug in `StreamProvider` and `StateNotifier`.  
+
 ### 0.0.1
 
-Initial release of Riverpod and Freezed Snippets for Flutter
+- Initial release of Riverpod and Freezed Snippets for Flutter
