@@ -7,7 +7,7 @@
 
 This repository has been merged with [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets) this repository will be archived for reference.
 
-Please install flutter-riverpod-snippets extension available on VS Code.
+Please install [flutter-riverpod-snippets](https://marketplace.visualstudio.com/items?itemName=robert-brunhage.flutter-riverpod-snippets) extension available on VS Code.
 
 # Riverpod and Freezed Snippets
 
