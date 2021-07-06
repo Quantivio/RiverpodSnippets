@@ -1,6 +1,6 @@
 # Merged with [flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
 
-[![status: archive](https://github.com/GIScience/badges/raw/master/status/archive.svg)](https://github.com/GIScience/badges#archive) &nbsp;
+![status: archive](https://img.shields.io/badge/status-archive-red) &nbsp;
 ![status: discontinued](https://img.shields.io/badge/status-discontinued-red)
 
 # **!Important**
@@ -53,7 +53,7 @@ Vscode: `1.56.0`
 
 ### 0.0.2
 
-- Fixed bug in `StreamProvider` and `StateNotifier`.  
+- Fixed bug in `StreamProvider` and `StateNotifier`.
 
 ### 0.0.1
 
